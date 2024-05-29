@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9a71fbc5.css",
-    "main.js": "/static/js/main.1e9957d1.js",
+    "main.js": "/static/js/main.01fc82d5.js",
     "static/js/27.f9cb2ff2.chunk.js": "/static/js/27.f9cb2ff2.chunk.js",
     "static/media/icon_brake_4x.png": "/static/media/icon_brake_4x.87f2ca4ae2b5a5db1145.png",
     "static/media/icon_approval_4x.png": "/static/media/icon_approval_4x.17344b56b5140feb236a.png",
@@ -10,6 +10,6 @@
   },
   "entrypoints": [
     "static/css/main.9a71fbc5.css",
-    "static/js/main.1e9957d1.js"
+    "static/js/main.01fc82d5.js"
   ]
 }
